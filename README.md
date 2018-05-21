@@ -1,7 +1,8 @@
-# gatsby-starter-default
-The default Gatsby starter.
+# gatsby-starter-tailwind-storybook
 
-For an overview of the project structure please refer to the [Gatsby documentation - Building with Components](https://www.gatsbyjs.org/docs/building-with-components/).
+A Gatsby starter with [Tailwind](https://tailwindcss.com/) css and [Storybook](https://storybook.js.org/) UI development environment set up
+
+## WORK IN PROGRESS - DOESN'T WORK YET
 
 ## Install
 
@@ -12,7 +13,7 @@ npm install --global gatsby-cli
 
 And run from your CLI:
 ```sh
-gatsby new gatsby-example-site
+gatsby new <project-name> https://github.com/dan-mckay/gatsby-starter-tailwind-storybook
 ```
 
 Then you can run it by:
@@ -20,7 +21,3 @@ Then you can run it by:
 cd gatsby-example-site
 npm run develop
 ```
-
-## Deploy
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
